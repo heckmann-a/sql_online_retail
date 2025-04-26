@@ -1,6 +1,8 @@
 # sql_online_retail
 
-Für die vollständige Analyse stehen die Dateien [*explorative-analyse.md*](https://github.com/heckmann-a/sql_online_retail/blob/main/docs/explorative-analyse.md) zur Verfügung.
+Für die vollständige Analyse stehen die Dateien 
+* [*explorative-analyse.md*](https://github.com/heckmann-a/sql_online_retail/blob/main/docs/explorative-analyse.md) und
+* [*online_retail_preprocessing*](https://github.com/heckmann-a/sql_online_retail/blob/main/sql/online_retail_preprocessing.sql) zur Verfügung.
 
 &nbsp;
 

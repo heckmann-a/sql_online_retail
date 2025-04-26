@@ -3,6 +3,12 @@
 Für die vollständige Analyse stehen die Dateien 
 * [*explorative-analyse.md*](https://github.com/heckmann-a/sql_online_retail/blob/main/docs/explorative-analyse.md) und
 * [*online_retail_preprocessing*](https://github.com/heckmann-a/sql_online_retail/blob/main/sql/online_retail_preprocessing.sql) zur Verfügung.
+  
+&nbsp;
+
+Die entsprechende Beispiel-Datenbank als SQL-Dump, die typische Analyseprozesse im Retail-Bereich zeigt. 
+* [*online_retail*](https://github.com/heckmann-a/sql_online_retail/blob/main/sql/online_retail.sql) *(Beinhaltet Materialized Views zur Auswertung von Verkaufsdaten nach Land und Produkt.)*
+  
 
 &nbsp;
 

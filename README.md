@@ -1,4 +1,7 @@
 # sql_online_retail
+<img src="https://github.com/user-attachments/assets/d4995549-57f4-4a35-a618-ac5014b7a84d" alt="Bildbeschreibung" width="600"/>\
+Foto von Growtika auf Unsplash:[link](https://unsplash.com/de/fotos/ein-korb-mit-einem-ziel-einem-ziel-einem-ziel-darin-und-einem--_jFGWIE6fg)
+
 
 Für die vollständige Analyse stehen die Dateien 
 * [*explorative-analyse.md*](https://github.com/heckmann-a/sql_online_retail/blob/main/docs/explorative-analyse.md) und
